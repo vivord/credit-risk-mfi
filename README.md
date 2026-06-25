@@ -52,7 +52,7 @@ This project demonstrates end-to-end machine learning for credit risk assessment
 - **XGBoost** – Main model
 - **matplotlib** & **seaborn** – Visualization
 - **joblib** – Model persistence
-
+pip install pandas numpy scikit-learn seaborn matplotlib shap joblib xgboost
 ---
 
 ## 🖥️ Installation
