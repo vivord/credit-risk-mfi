@@ -54,6 +54,15 @@ This project demonstrates end-to-end machine learning for credit risk assessment
 - **joblib** – Model persistence
 pip install pandas numpy scikit-learn seaborn matplotlib shap joblib xgboost
 ---
+## 📈 Model Performance (German Credit Data)
+
+| Metric              | Score      |
+|---------------------|------------|
+| **AUC-ROC**         | **0.7851** |
+| Accuracy            | ~76-78%    |
+| Recall (Bad Risk)   | Improved   |
+
+*XGBoost model with class imbalance handling*
 
 ## 🖥️ Installation
 
