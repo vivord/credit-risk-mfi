@@ -63,6 +63,8 @@ pip install pandas numpy scikit-learn seaborn matplotlib shap joblib xgboost
 | Recall (Bad Risk)   | Improved   |
 
 *XGBoost model with class imbalance handling*
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/a107dab7-ce5c-4b74-a0c0-e97b1b9060c1" />
+
 
 ## 🖥️ Installation
 
