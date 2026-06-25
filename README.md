@@ -6,7 +6,7 @@
 
 **A machine learning project to predict credit risk (Good/Bad) using the German Credit Dataset.**
 
-This project serves as a foundation for building a real-world Credit Risk Prediction system for **ChokChey Finance** (using internal core banking + CBC data).
+This project serves as a foundation for building a real-world Credit Risk Prediction system for **Microfinance institutions** (using internal core banking + CBC data).
 
 ---
 
@@ -35,12 +35,12 @@ This project demonstrates end-to-end machine learning for credit risk assessment
 
 ## 📊 Dataset
 
-- **Source**: German Credit Dataset (UCI Repository)
+- **Source**: German Credit Dataset (UCI Repository): https://raw.githubusercontent.com/selva86/datasets/master/GermanCredit.csv
 - **Samples**: 1,000
 - **Target**: `credit_risk` (1 = Good, 0 = Bad)
 - **Features**: 20+ attributes (credit history, loan amount, age, purpose, savings, etc.)
 
-**Note**: This is a public dataset used for learning and portfolio purposes. The next phase will use anonymized internal data from ChokChey Finance + CBC uploads.
+**Note**: This is a public dataset used for learning and portfolio purposes.
 
 ---
 
